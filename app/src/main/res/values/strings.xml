@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Story App Dicoding</string>
+    <string name="welcome_text">Selamat Datang di Story App Dicoding!</string>
+    <string name="app_description">Ayo Berbagi ceritamu dengan pengguna lain dalam satu aplikasi sederhana.</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="prompt_name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_too_short">Password kurang dari delapan karakter!</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Buka Gallery</string>
+    <string name="enter_description">Masukan deskripsi...</string>
+    <string name="image_description">Gambar Story</string>
+    <string name="banner_description">Gambar Banner</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="failed_to_load_image">Gagal memuat cerita</string>
+    <string name="no_stories_found">Gagal memuat cerita</string>
+    <string name="incomplete_upload_story">Tidak boleh ada field yang kosong!</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="message_login_page">Masukkan dulu data dirimu ya</string>
+    <string name="title_login_page">Sudah siap untuk untuk berbagi cerita dengan teman Dicoding lainnya?</string>
+    <string name="title_signup_page">Lengkapi dulu data dirimu di bawah ini ya</string>
+    <string name="signup">Daftar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="upload_failed">Upload failed, please try again.</string>
+
+
+</resources>
